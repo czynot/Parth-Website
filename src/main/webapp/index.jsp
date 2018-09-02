@@ -177,7 +177,7 @@
          if(!strFile.exists())
          {
            Writer objWriter = new BufferedWriter(new FileWriter(strFile));
-           objWriter.write(0);
+           objWriter.write("0");
            objWriter.flush();
            objWriter.close();
          }
