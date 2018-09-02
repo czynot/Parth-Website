@@ -6,6 +6,7 @@
   <groupId>com.baalajimaestro.website</groupId>
   <artifactId>maestro-site</artifactId>
   <version>1.0</version>
+  <name>java-getting-started</name>
   <properties>
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -17,6 +18,8 @@
   <build>
     <plugins>
       <plugin>
+        <groupId>org.baalajimaestro.website</groupId>
+        <artifactId>maestro-site</artifactId>
         <executions>
           <execution>
             <goals>
