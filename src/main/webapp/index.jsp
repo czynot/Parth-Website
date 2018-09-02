@@ -174,14 +174,22 @@
         String jspPath = session.getServletContext().getRealPath("/cou");
          String strPath = jspPath+"nter.dat";
          File strFile = new File(strPath);
-         BufferedReader br=new BufferedReader(new FileReader(strPath));
+         if(!strFile.exists())
+         {
+           Writer objWriter = new BufferedWriter(new FileWriter(strFile));
+           objWriter.write(0);
+           objWriter.flush();
+           objWriter.close();
+         }
+         else
+         {BufferedReader br=new BufferedReader(new FileReader(strPath));
                 int x=Integer.parseInt(br.readLine());
                 x++;
                 out.println("This page was visited "+x+" times. Thank you for visiting my page!");
          Writer objWriter = new BufferedWriter(new FileWriter(strFile));
          objWriter.write(Integer.toString(x));
          objWriter.flush();
-         objWriter.close();
+         objWriter.close();}
         %>
         <br/>
         Copyright &copy; Maestro Creativescape 2018
