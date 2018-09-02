@@ -108,9 +108,9 @@
             <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
             <h2 class="text-white mb-5">Wanna Contact Me?</h2>
             <form class="form-inline d-flex" action="https://formspree.io/baalajimaestro@computer4u.com" method=POST>
-              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="name" placeholder="Enter your name..."><br/>
-              <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="Email" placeholder="Enter email address..."><br/>
-              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="Comment" placeholder="Type anything">
+              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" name="name" placeholder="Enter your name..."><br/>
+              <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" name="Email" placeholder="Enter email address..."><br/>
+              <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" name="Comment" placeholder="Type anything">
               <br/>
               <button type="submit" class="btn btn-primary mx-auto">Send</button>
             </form>
