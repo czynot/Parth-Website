@@ -1,4 +1,4 @@
 # My Website
 
-Check it out https://www.baalajimaestro.ooo
+Check it out https://baalajimaestro.ooo
 
