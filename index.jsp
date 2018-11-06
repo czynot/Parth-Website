@@ -21,7 +21,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>baalajimaestro</title>
+    <title>parthpurvesh</title>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
@@ -33,7 +33,7 @@
   <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">baalajimaestro</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">parthpurvesh</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2 class="text-white mb-4">About</h2>
-            <p class="text-white-50">I'm Baalaji, 19 years old from Chennai, India. A casual shitposter, wrecks chats with his userbot. If I am not working on some bot or coding something else, I shall be mostly shitposting on Instagram or Telegram</p>
+            <p class="text-white-50">I'm Parth, 19 years old from Delhi, India. A casual shitposter, wrecks chats with his userbot. If I am not working on some bot or coding something else, I shall be mostly shitposting on Instagram or Telegram</p>
           </div>
         </div>
         <img src="img/tab.jpg" class="img-fluid" alt="">
@@ -81,7 +81,7 @@
           <div class="col-xl-4 col-lg-5">
             <div class="featured-text text-center text-lg-left">
               <h4>Projects</h4>
-              <p class="text-black-50 mb-0">Oof, Projects i am working on? <br/>I am currently up with userbots. For more check <a href="t.me/userbot_spport">here.</a> Also Working on a project to enable a machine to understand conventional physics word problems directly and solve them. It uses machine learning to accomplish the task. It isnt out yet.</p>
+              <p class="text-black-50 mb-0">Oof, Projects i am working on? <br/>I am currently up with userbots. For more check <a href="t.me/userbot_spport">here.</a> I also support development of custom kernels and ROMs.</p>
             </div>
           </div>
         </div>
@@ -93,8 +93,8 @@
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white">Retarded Kernel</h4>
-                  <p class="mb-0 text-white-50">This is under production line, a kernel developed for whyred(Redmi Note 5 Pro), with EAS and other cool tweaks you will love. Release will be push here. Check back later.</p>
+                  <h4 class="text-white">Unnamed ROM</h4>
+                  <p class="mb-0 text-white-50">This is an under production line, a ROM developed for mido(Redmi Note 4), with features of Liquid Remix and Oxygen OS that you will love. Release will be pushed here. Check back later.</p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
@@ -107,7 +107,7 @@
           <div class="col-md-10 col-lg-8 mx-auto text-center">
             <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
             <h2 class="text-white mb-5">Wanna Contact Me?</h2>
-            <form class="form-inline d-flex" action="https://formspree.io/baalajimaestro@computer4u.com" method=POST>
+            <form class="form-inline d-flex" action="https://formspree.io/parth29dec@gmail.com" method=POST>
               <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="name" placeholder="Enter your name..."><br/>
               <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="Email" placeholder="Enter email address..."><br/>
               <input type="text" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-3" id="Comment" placeholder="Type anything">
@@ -138,7 +138,7 @@
                 <h4 class="text-uppercase m-0">Email</h4>
                 <hr class="my-4">
                 <div class="small text-black-50">
-                  <a href="mailto:baalajimaestro@computer4u.com">baalajimaestro@computer4u.com</a>
+                  <a href="mailto: parth29dec@gmail.com">parth29dec@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -149,19 +149,19 @@
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Phone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">+91-9444739227</div>
+                <div class="small text-black-50">+91-9534038087</div>
               </div>
             </div>
           </div>
         </div>
         <div class="social d-flex justify-content-center">
-          <a href="t.me/baalajimaestro" class="mx-2">
+          <a href="t.me/Void_Aspect" class="mx-2">
             <i class="fab fa-telegram"></i>
           </a>
           <a href="https://instagram.com/baalajimaestro" class="mx-2">
             <i class="fab fa-instagram"></i>
           </a>
-          <a href="https://github.com/baalajimaestro" class="mx-2">
+          <a href="https://github.com/czynot" class="mx-2">
             <i class="fab fa-github"></i>
           </a>
         </div>
@@ -184,7 +184,7 @@
          objWriter.close();
         %>
         <br/>
-        Copyright &copy; Maestro Creativescape 2018
+        Copyright &copy; Purvesh Creativescape 2018
       </div>
     </footer>
     <script src="vendor/jquery/jquery.min.js"></script>
