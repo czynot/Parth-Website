@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2 class="text-white mb-4">About</h2>
-            <p class="text-white-50">I'm Parth, 19 years old from Delhi, India. A casual shitposter, wrecks chats with his userbot. If I am not working on some bot or coding something else, I shall be mostly shitposting on Instagram or Telegram</p>
+            <p class="text-white-50">I'm Parth, 19 years old from Delhi, India. A casual shitposter, wrecks chats with his userbot. If I am not working on some bot or coding something that'd most likely never be used, I shall be mostly shitposting on Instagram or Telegram</p>
           </div>
         </div>
         <img src="img/tab.jpg" class="img-fluid" alt="">
@@ -94,7 +94,7 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Unnamed ROM</h4>
-                  <p class="mb-0 text-white-50">This is an under production line, a ROM developed for mido(Redmi Note 4), with features of Liquid Remix and Oxygen OS that you will love. Release will be pushed here. Check back later.</p>
+                  <p class="mb-0 text-white-50">This is an under production line, a ROM developed for mido(Redmi Note 4), with features of Liquid Remix and Oxygen OS, something that you will love. Release will be pushed here. Check back later.</p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
@@ -127,7 +127,7 @@
                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Address</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">Chennai, India</div>
+                <div class="small text-black-50">New Delhi, India</div>
               </div>
             </div>
           </div>
@@ -158,7 +158,7 @@
           <a href="t.me/Void_Aspect" class="mx-2">
             <i class="fab fa-telegram"></i>
           </a>
-          <a href="https://instagram.com/baalajimaestro" class="mx-2">
+          <a href="https://instagram.com/parth.purvesh" class="mx-2">
             <i class="fab fa-instagram"></i>
           </a>
           <a href="https://github.com/czynot" class="mx-2">
